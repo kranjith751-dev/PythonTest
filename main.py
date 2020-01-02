@@ -1,2 +1,4 @@
-a=2+3
-print (a)
+import constant
+print (constant.TESTADM)
+print (constant.PI)
+print (constant.GRAVITY)
